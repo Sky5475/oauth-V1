@@ -19,7 +19,7 @@ Required:
 =CLIENT_ID - The bot account id
 =CLIENT_OAUTH_SECRET - The secret key for OAuth2
 =CLIENT_TOKEN - The bot token
-=MONGO_URI - The mongoose uri for the database to connect with
+=MONGO_URI - The mongoose urL for the database to connect with
 =PORT - The port you want the backend server to listen on
 
 
